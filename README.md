@@ -1,10 +1,10 @@
-# Hi there, I'm [Aapka Name] 👋
+# Hi there, I'm [Ashfaque-Akbar] 👋
 
 ### 🚀 About Me
-- 🔭 Working on: **[Project Name/Type]**
+- 🔭 Working on: **[Campus Compass Whatsapp Ageny]**
 - 🌱 Currently learning: **[Next.js / Cloud / System Design]**
 - 💬 Ask me about: **[React, Node.js, Python]**
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **sathioashfaque@gmail.com**
 
 ---
 
