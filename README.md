@@ -1,3 +1,7 @@
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 # Hi there, I'm Ashfaque-Akbar 👋
 
 <p align="center">
