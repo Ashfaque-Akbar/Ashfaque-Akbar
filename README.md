@@ -1,9 +1,9 @@
-# Hi there, I'm [Ashfaque-Akbar] 👋
+# Hi there, I'm Ashfaque-Akbar 👋
 
 ### 🚀 About Me
-- 🔭 Working on: **[Campus Compass Whatsapp Ageny]**
+- 🔭 Working on: **[Campus Compass Whatsapp Agent]**
 - 🌱 Currently learning: **[Next.js / Cloud / System Design]**
-- 💬 Ask me about: **[React, Node.js, Python]**
+- 💬 Ask me about: **Java, C++, Python,Ms Azure,DBMS**
 - 📫 Reach me at: **sathioashfaque@gmail.com**
 
 ---
